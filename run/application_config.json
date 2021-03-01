@@ -173,12 +173,14 @@
       "maxFiles": 1000
     },
     "view": {
-      "root": [],
+      "root": [
+        "/Users/dezhizhang/Documents/project/compilation/app/view"
+      ],
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
-        ".ejs": "ejs"
+        ".html": "ejs"
       }
     },
     "ejs": {

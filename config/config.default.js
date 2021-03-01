@@ -1,8 +1,8 @@
 /*
  * @Author: your name
  * @Date: 2021-03-01 22:11:14
- * @LastEditTime: 2021-03-01 22:18:29
- * @LastEditors: your name
+ * @LastEditTime: 2021-03-01 22:34:47
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /compilation/config/config.default.js
  */
@@ -28,7 +28,7 @@ module.exports = appInfo => {
 
   config.view = {
     mapping: {
-      '.ejs': 'ejs',
+      '.html': 'ejs',
     },
   };
 

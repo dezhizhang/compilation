@@ -148,7 +148,7 @@
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
-        ".ejs": "ejs"
+        ".html": "ejs"
       }
     },
     "ejs": {

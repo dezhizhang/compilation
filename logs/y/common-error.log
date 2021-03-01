@@ -43,3 +43,33 @@ operator: "=="
 pid: 46114
 hostname: dezhizhangdeMacBook-Pro.local
 
+2021-03-01 22:32:36,984 ERROR 46769 nodejs.AssertionError: Can't find viewEngine for /Users/dezhizhang/Documents/project/compilation/app/view/index.html
+    at ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 46769
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:32:38,666 ERROR 46769 nodejs.AssertionError: Can't find viewEngine for /Users/dezhizhang/Documents/project/compilation/app/view/index.html
+    at ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 46769
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:32:58,085 ERROR 46829 nodejs.AssertionError: Can't find viewEngine for /Users/dezhizhang/Documents/project/compilation/app/view/index.html
+    at ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 46829
+hostname: dezhizhangdeMacBook-Pro.local
+

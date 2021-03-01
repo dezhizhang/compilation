@@ -3,7 +3,7 @@
   "middleware": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js",
   "view": {
     "mapping": {
-      ".ejs": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js"
+      ".html": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js"
     },
     "root": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
     "cache": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.local.js",

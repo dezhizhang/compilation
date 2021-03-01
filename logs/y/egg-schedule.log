@@ -1,0 +1,12 @@
+2021-03-01 22:15:18,171 INFO 44713 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22481831ms at 2021-03-02 04:30:00.002
+2021-03-01 22:15:18,171 INFO 44713 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6281829ms at 2021-03-02 00:00:00.000
+2021-03-01 22:15:18,171 INFO 44713 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6282829ms at 2021-03-02 00:00:01.000
+2021-03-01 22:15:18,053 INFO 44717 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-01 22:15:18,053 INFO 44717 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-01 22:15:18,053 INFO 44717 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-01 22:17:28,979 INFO 45155 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22351023ms at 2021-03-02 04:30:00.002
+2021-03-01 22:17:28,979 INFO 45155 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6151021ms at 2021-03-02 00:00:00.000
+2021-03-01 22:17:28,980 INFO 45155 [Timer] /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6152020ms at 2021-03-02 00:00:01.000
+2021-03-01 22:17:28,867 INFO 45156 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-01 22:17:28,867 INFO 45156 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-01 22:17:28,867 INFO 45156 [egg-schedule]: register schedule /Users/dezhizhang/Documents/project/compilation/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

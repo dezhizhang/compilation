@@ -1,0 +1,22 @@
+2021-03-01 22:15:17,298 INFO 44713 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-01 22:15:17,304 INFO 44713 [egg:core] dump config after load, 3ms
+2021-03-01 22:15:17,342 INFO 44713 [egg-watcher] Start watching: ["/Users/dezhizhang/Documents/project/compilation/app","/Users/dezhizhang/Documents/project/compilation/config","/Users/dezhizhang/Documents/project/compilation/mocks","/Users/dezhizhang/Documents/project/compilation/mocks_proxy","/Users/dezhizhang/Documents/project/compilation/app.js"]
+2021-03-01 22:15:17,342 INFO 44713 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/app"
+2021-03-01 22:15:17,343 INFO 44713 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/config"
+2021-03-01 22:15:17,343 INFO 44713 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/mocks"
+2021-03-01 22:15:17,343 INFO 44713 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/mocks_proxy"
+2021-03-01 22:15:17,343 INFO 44713 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/app.js"
+2021-03-01 22:15:17,343 INFO 44713 [egg-watcher:agent] watcher start success
+2021-03-01 22:15:17,353 INFO 44713 [egg:core] dump config after ready, 4ms
+2021-03-01 22:15:18,149 INFO 44713 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/dezhizhang/Documents/project/compilation/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":62012305,"size":64,"blocks":0,"atimeMs":1614608118136.9717,"mtimeMs":1614608118136.9717,"ctimeMs":1614608118136.9717,"birthtimeMs":1614608118136.9717,"atime":"2021-03-01T14:15:18.137Z","mtime":"2021-03-01T14:15:18.137Z","ctime":"2021-03-01T14:15:18.137Z","birthtime":"2021-03-01T14:15:18.137Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-03-01 22:17:13,408 INFO 44713 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/dezhizhang/Documents/project/compilation/app/view","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":62013716,"size":64,"blocks":0,"atimeMs":1614608233346.5803,"mtimeMs":1614608233346.5803,"ctimeMs":1614608233346.5803,"birthtimeMs":1614608233346.5803,"atime":"2021-03-01T14:17:13.347Z","mtime":"2021-03-01T14:17:13.347Z","ctime":"2021-03-01T14:17:13.347Z","birthtime":"2021-03-01T14:17:13.347Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-03-01 22:17:28,120 INFO 45155 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-01 22:17:28,126 INFO 45155 [egg:core] dump config after load, 3ms
+2021-03-01 22:17:28,160 INFO 45155 [egg-watcher] Start watching: ["/Users/dezhizhang/Documents/project/compilation/app","/Users/dezhizhang/Documents/project/compilation/config","/Users/dezhizhang/Documents/project/compilation/mocks","/Users/dezhizhang/Documents/project/compilation/mocks_proxy","/Users/dezhizhang/Documents/project/compilation/app.js"]
+2021-03-01 22:17:28,160 INFO 45155 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/app"
+2021-03-01 22:17:28,161 INFO 45155 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/config"
+2021-03-01 22:17:28,161 INFO 45155 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/mocks"
+2021-03-01 22:17:28,161 INFO 45155 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/mocks_proxy"
+2021-03-01 22:17:28,161 INFO 45155 [egg-watcher] Start watching: "/Users/dezhizhang/Documents/project/compilation/app.js"
+2021-03-01 22:17:28,161 INFO 45155 [egg-watcher:agent] watcher start success
+2021-03-01 22:17:28,175 INFO 45155 [egg:core] dump config after ready, 5ms

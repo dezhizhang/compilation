@@ -26,3 +26,216 @@
 2021-03-01 22:17:28,961 INFO 45156 [egg:core] dump config after load, 4ms
 2021-03-01 22:17:28,970 INFO 45156 [egg-watcher:application] watcher start success
 2021-03-01 22:17:28,975 INFO 45156 [egg:core] dump config after ready, 4ms
+2021-03-01 22:18:12,469 INFO 45303 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:18:12,496 INFO 45303 [egg-multipart] stream mode enable
+2021-03-01 22:18:12,602 INFO 45303 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:18:12,606 INFO 45303 [egg-security] use csrf middleware
+2021-03-01 22:18:12,610 INFO 45303 [egg-security] use methodnoallow middleware
+2021-03-01 22:18:12,610 INFO 45303 [egg-security] use noopen middleware
+2021-03-01 22:18:12,611 INFO 45303 [egg-security] use nosniff middleware
+2021-03-01 22:18:12,611 INFO 45303 [egg-security] use xssProtection middleware
+2021-03-01 22:18:12,612 INFO 45303 [egg-security] use xframe middleware
+2021-03-01 22:18:12,612 INFO 45303 [egg-security] use dta middleware
+2021-03-01 22:18:12,612 INFO 45303 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:18:12,621 INFO 45303 [egg:core] dump config after load, 5ms
+2021-03-01 22:18:12,631 INFO 45303 [egg-watcher:application] watcher start success
+2021-03-01 22:18:12,638 INFO 45303 [egg:core] dump config after ready, 5ms
+2021-03-01 22:18:13,354 INFO 45307 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:18:13,383 INFO 45307 [egg-multipart] stream mode enable
+2021-03-01 22:18:13,447 INFO 45307 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:18:13,449 INFO 45307 [egg-security] use csrf middleware
+2021-03-01 22:18:13,452 INFO 45307 [egg-security] use methodnoallow middleware
+2021-03-01 22:18:13,452 INFO 45307 [egg-security] use noopen middleware
+2021-03-01 22:18:13,453 INFO 45307 [egg-security] use nosniff middleware
+2021-03-01 22:18:13,453 INFO 45307 [egg-security] use xssProtection middleware
+2021-03-01 22:18:13,453 INFO 45307 [egg-security] use xframe middleware
+2021-03-01 22:18:13,454 INFO 45307 [egg-security] use dta middleware
+2021-03-01 22:18:13,454 INFO 45307 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:18:13,461 INFO 45307 [egg:core] dump config after load, 5ms
+2021-03-01 22:18:13,470 INFO 45307 [egg-watcher:application] watcher start success
+2021-03-01 22:18:13,476 INFO 45307 [egg:core] dump config after ready, 5ms
+2021-03-01 22:18:30,218 INFO 45367 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:18:30,241 INFO 45367 [egg-multipart] stream mode enable
+2021-03-01 22:18:30,357 INFO 45367 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:18:30,360 INFO 45367 [egg-security] use csrf middleware
+2021-03-01 22:18:30,361 INFO 45367 [egg-security] use methodnoallow middleware
+2021-03-01 22:18:30,362 INFO 45367 [egg-security] use noopen middleware
+2021-03-01 22:18:30,363 INFO 45367 [egg-security] use nosniff middleware
+2021-03-01 22:18:30,363 INFO 45367 [egg-security] use xssProtection middleware
+2021-03-01 22:18:30,364 INFO 45367 [egg-security] use xframe middleware
+2021-03-01 22:18:30,364 INFO 45367 [egg-security] use dta middleware
+2021-03-01 22:18:30,364 INFO 45367 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:18:30,372 INFO 45367 [egg:core] dump config after load, 4ms
+2021-03-01 22:18:30,380 INFO 45367 [egg-watcher:application] watcher start success
+2021-03-01 22:18:30,386 INFO 45367 [egg:core] dump config after ready, 4ms
+2021-03-01 22:18:31,075 INFO 45374 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:18:31,099 INFO 45374 [egg-multipart] stream mode enable
+2021-03-01 22:18:31,163 INFO 45374 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:18:31,165 INFO 45374 [egg-security] use csrf middleware
+2021-03-01 22:18:31,165 INFO 45374 [egg-security] use methodnoallow middleware
+2021-03-01 22:18:31,166 INFO 45374 [egg-security] use noopen middleware
+2021-03-01 22:18:31,166 INFO 45374 [egg-security] use nosniff middleware
+2021-03-01 22:18:31,167 INFO 45374 [egg-security] use xssProtection middleware
+2021-03-01 22:18:31,167 INFO 45374 [egg-security] use xframe middleware
+2021-03-01 22:18:31,167 INFO 45374 [egg-security] use dta middleware
+2021-03-01 22:18:31,167 INFO 45374 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:18:31,174 INFO 45374 [egg:core] dump config after load, 4ms
+2021-03-01 22:18:31,182 INFO 45374 [egg-watcher:application] watcher start success
+2021-03-01 22:18:31,190 INFO 45374 [egg:core] dump config after ready, 5ms
+2021-03-01 22:18:32,437 INFO 45376 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:18:32,462 INFO 45376 [egg-multipart] stream mode enable
+2021-03-01 22:18:32,527 INFO 45376 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:18:32,529 INFO 45376 [egg-security] use csrf middleware
+2021-03-01 22:18:32,530 INFO 45376 [egg-security] use methodnoallow middleware
+2021-03-01 22:18:32,530 INFO 45376 [egg-security] use noopen middleware
+2021-03-01 22:18:32,531 INFO 45376 [egg-security] use nosniff middleware
+2021-03-01 22:18:32,531 INFO 45376 [egg-security] use xssProtection middleware
+2021-03-01 22:18:32,532 INFO 45376 [egg-security] use xframe middleware
+2021-03-01 22:18:32,532 INFO 45376 [egg-security] use dta middleware
+2021-03-01 22:18:32,532 INFO 45376 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:18:32,539 INFO 45376 [egg:core] dump config after load, 3ms
+2021-03-01 22:18:32,548 INFO 45376 [egg-watcher:application] watcher start success
+2021-03-01 22:18:32,555 INFO 45376 [egg:core] dump config after ready, 5ms
+2021-03-01 22:20:33,403 INFO 45716 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:20:33,425 INFO 45716 [egg-multipart] stream mode enable
+2021-03-01 22:20:33,521 INFO 45716 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:20:33,523 INFO 45716 [egg-security] use csrf middleware
+2021-03-01 22:20:33,524 INFO 45716 [egg-security] use methodnoallow middleware
+2021-03-01 22:20:33,524 INFO 45716 [egg-security] use noopen middleware
+2021-03-01 22:20:33,525 INFO 45716 [egg-security] use nosniff middleware
+2021-03-01 22:20:33,526 INFO 45716 [egg-security] use xssProtection middleware
+2021-03-01 22:20:33,526 INFO 45716 [egg-security] use xframe middleware
+2021-03-01 22:20:33,527 INFO 45716 [egg-security] use dta middleware
+2021-03-01 22:20:33,527 INFO 45716 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:20:33,534 INFO 45716 [egg:core] dump config after load, 4ms
+2021-03-01 22:20:33,542 INFO 45716 [egg-watcher:application] watcher start success
+2021-03-01 22:20:33,547 INFO 45716 [egg:core] dump config after ready, 3ms
+2021-03-01 22:20:34,232 INFO 45719 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:20:34,256 INFO 45719 [egg-multipart] stream mode enable
+2021-03-01 22:20:34,319 INFO 45719 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:20:34,321 INFO 45719 [egg-security] use csrf middleware
+2021-03-01 22:20:34,321 INFO 45719 [egg-security] use methodnoallow middleware
+2021-03-01 22:20:34,322 INFO 45719 [egg-security] use noopen middleware
+2021-03-01 22:20:34,322 INFO 45719 [egg-security] use nosniff middleware
+2021-03-01 22:20:34,323 INFO 45719 [egg-security] use xssProtection middleware
+2021-03-01 22:20:34,323 INFO 45719 [egg-security] use xframe middleware
+2021-03-01 22:20:34,323 INFO 45719 [egg-security] use dta middleware
+2021-03-01 22:20:34,323 INFO 45719 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:20:34,330 INFO 45719 [egg:core] dump config after load, 4ms
+2021-03-01 22:20:34,338 INFO 45719 [egg-watcher:application] watcher start success
+2021-03-01 22:20:34,344 INFO 45719 [egg:core] dump config after ready, 4ms
+2021-03-01 22:20:37,722 ERROR 45719 nodejs.AssertionError: Can't find viewEngine for /Users/dezhizhang/Documents/project/compilation/app/view/index.html
+    at ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 45719
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:23:57,381 INFO 45981 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:23:57,410 INFO 45981 [egg-multipart] stream mode enable
+2021-03-01 22:23:57,502 INFO 45981 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:23:57,505 INFO 45981 [egg-security] use csrf middleware
+2021-03-01 22:23:57,508 INFO 45981 [egg-security] use methodnoallow middleware
+2021-03-01 22:23:57,510 INFO 45981 [egg-security] use noopen middleware
+2021-03-01 22:23:57,510 INFO 45981 [egg-security] use nosniff middleware
+2021-03-01 22:23:57,511 INFO 45981 [egg-security] use xssProtection middleware
+2021-03-01 22:23:57,512 INFO 45981 [egg-security] use xframe middleware
+2021-03-01 22:23:57,512 INFO 45981 [egg-security] use dta middleware
+2021-03-01 22:23:57,512 INFO 45981 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:23:57,520 INFO 45981 [egg:core] dump config after load, 4ms
+2021-03-01 22:23:57,530 INFO 45981 [egg-watcher:application] watcher start success
+2021-03-01 22:23:57,536 INFO 45981 [egg:core] dump config after ready, 4ms
+2021-03-01 22:24:16,069 INFO 46026 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:24:16,091 INFO 46026 [egg-multipart] stream mode enable
+2021-03-01 22:24:16,168 INFO 46026 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:24:16,173 INFO 46026 [egg-security] use csrf middleware
+2021-03-01 22:24:16,175 INFO 46026 [egg-security] use methodnoallow middleware
+2021-03-01 22:24:16,175 INFO 46026 [egg-security] use noopen middleware
+2021-03-01 22:24:16,176 INFO 46026 [egg-security] use nosniff middleware
+2021-03-01 22:24:16,176 INFO 46026 [egg-security] use xssProtection middleware
+2021-03-01 22:24:16,177 INFO 46026 [egg-security] use xframe middleware
+2021-03-01 22:24:16,178 INFO 46026 [egg-security] use dta middleware
+2021-03-01 22:24:16,178 INFO 46026 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:24:16,185 INFO 46026 [egg:core] dump config after load, 3ms
+2021-03-01 22:24:16,192 INFO 46026 [egg-watcher:application] watcher start success
+2021-03-01 22:24:16,197 INFO 46026 [egg:core] dump config after ready, 4ms
+2021-03-01 22:24:24,463 INFO 46059 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:24:24,484 INFO 46059 [egg-multipart] stream mode enable
+2021-03-01 22:24:24,566 INFO 46059 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:24:24,568 INFO 46059 [egg-security] use csrf middleware
+2021-03-01 22:24:24,569 INFO 46059 [egg-security] use methodnoallow middleware
+2021-03-01 22:24:24,569 INFO 46059 [egg-security] use noopen middleware
+2021-03-01 22:24:24,570 INFO 46059 [egg-security] use nosniff middleware
+2021-03-01 22:24:24,570 INFO 46059 [egg-security] use xssProtection middleware
+2021-03-01 22:24:24,571 INFO 46059 [egg-security] use xframe middleware
+2021-03-01 22:24:24,571 INFO 46059 [egg-security] use dta middleware
+2021-03-01 22:24:24,571 INFO 46059 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:24:24,578 INFO 46059 [egg:core] dump config after load, 3ms
+2021-03-01 22:24:24,588 INFO 46059 [egg-watcher:application] watcher start success
+2021-03-01 22:24:24,593 INFO 46059 [egg:core] dump config after ready, 4ms
+2021-03-01 22:24:33,544 ERROR 46059 nodejs.AssertionError: Can't find /view/index.html from /Users/dezhizhang/Documents/project/compilation/app/view
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46059
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:24:46,427 INFO 46095 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:24:46,449 INFO 46095 [egg-multipart] stream mode enable
+2021-03-01 22:24:46,529 INFO 46095 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:24:46,532 INFO 46095 [egg-security] use csrf middleware
+2021-03-01 22:24:46,533 INFO 46095 [egg-security] use methodnoallow middleware
+2021-03-01 22:24:46,533 INFO 46095 [egg-security] use noopen middleware
+2021-03-01 22:24:46,534 INFO 46095 [egg-security] use nosniff middleware
+2021-03-01 22:24:46,534 INFO 46095 [egg-security] use xssProtection middleware
+2021-03-01 22:24:46,535 INFO 46095 [egg-security] use xframe middleware
+2021-03-01 22:24:46,535 INFO 46095 [egg-security] use dta middleware
+2021-03-01 22:24:46,535 INFO 46095 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:24:46,541 INFO 46095 [egg:core] dump config after load, 3ms
+2021-03-01 22:24:46,548 INFO 46095 [egg-watcher:application] watcher start success
+2021-03-01 22:24:46,553 INFO 46095 [egg:core] dump config after ready, 4ms
+2021-03-01 22:24:48,767 ERROR 46095 nodejs.AssertionError: Can't find /views/index.html from 
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46095
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:24:58,145 INFO 46114 [egg:logger] init all loggers with options: {"dir":"/Users/dezhizhang/Documents/project/compilation/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-01 22:24:58,164 INFO 46114 [egg-multipart] stream mode enable
+2021-03-01 22:24:58,220 INFO 46114 [egg-static] starting static serve /public/ -> /Users/dezhizhang/Documents/project/compilation/app/public
+2021-03-01 22:24:58,221 INFO 46114 [egg-security] use csrf middleware
+2021-03-01 22:24:58,222 INFO 46114 [egg-security] use methodnoallow middleware
+2021-03-01 22:24:58,223 INFO 46114 [egg-security] use noopen middleware
+2021-03-01 22:24:58,223 INFO 46114 [egg-security] use nosniff middleware
+2021-03-01 22:24:58,224 INFO 46114 [egg-security] use xssProtection middleware
+2021-03-01 22:24:58,224 INFO 46114 [egg-security] use xframe middleware
+2021-03-01 22:24:58,224 INFO 46114 [egg-security] use dta middleware
+2021-03-01 22:24:58,225 INFO 46114 [egg-security] compose 7 middlewares into one security middleware
+2021-03-01 22:24:58,231 INFO 46114 [egg:core] dump config after load, 3ms
+2021-03-01 22:24:58,238 INFO 46114 [egg-watcher:application] watcher start success
+2021-03-01 22:24:58,244 INFO 46114 [egg:core] dump config after ready, 5ms
+2021-03-01 22:25:00,523 ERROR 46114 nodejs.AssertionError: Can't find /index.html from 
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46114
+hostname: dezhizhangdeMacBook-Pro.local
+

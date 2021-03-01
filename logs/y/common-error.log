@@ -1,0 +1,45 @@
+2021-03-01 22:20:37,721 ERROR 45719 nodejs.AssertionError: Can't find viewEngine for /Users/dezhizhang/Documents/project/compilation/app/view/index.html
+    at ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:66:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 45719
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:24:33,543 ERROR 46059 nodejs.AssertionError: Can't find /view/index.html from /Users/dezhizhang/Documents/project/compilation/app/view
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46059
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:24:48,766 ERROR 46095 nodejs.AssertionError: Can't find /views/index.html from 
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46095
+hostname: dezhizhangdeMacBook-Pro.local
+
+2021-03-01 22:25:00,523 ERROR 46114 nodejs.AssertionError: Can't find /index.html from 
+    at Map.resolve (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ContextView.[contextView#render] (/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/lib/context_view.js:50:22)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 46114
+hostname: dezhizhangdeMacBook-Pro.local
+

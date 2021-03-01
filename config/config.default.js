@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-03-01 22:11:14
+ * @LastEditTime: 2021-03-01 22:18:29
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /compilation/config/config.default.js
+ */
 /* eslint valid-jsdoc: "off" */
 
 'use strict';
@@ -17,6 +25,12 @@ module.exports = appInfo => {
 
   // add your middleware config here
   config.middleware = [];
+
+  config.view = {
+    mapping: {
+      '.ejs': 'ejs',
+    },
+  };
 
   // add your user config here
   const userConfig = {

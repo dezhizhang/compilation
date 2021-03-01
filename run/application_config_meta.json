@@ -1,6 +1,15 @@
 {
   "keys": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js",
   "middleware": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js",
+  "view": {
+    "mapping": {
+      ".ejs": "/Users/dezhizhang/Documents/project/compilation/config/config.default.js"
+    },
+    "root": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js"
+  },
   "session": {
     "maxAge": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-session/config/config.default.js",
     "key": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-session/config/config.default.js",
@@ -139,12 +148,13 @@
     "buffer": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-static/config/config.default.js",
     "maxFiles": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-static/config/config.default.js"
   },
-  "view": {
-    "root": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view/config/config.default.js"
+  "ejs": {
+    "root": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.default.js",
+    "cache": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.local.js",
+    "debug": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.default.js",
+    "strict": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg-view-ejs/config/config.default.js"
   },
   "env": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg/config/config.default.js",
   "name": "/Users/dezhizhang/Documents/project/compilation/node_modules/egg/config/config.default.js",
